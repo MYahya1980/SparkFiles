@@ -1,0 +1,38 @@
+{
+   "Testdata":{
+    "CustomerKey":{
+       "length":5
+    },
+    "EducationLevel":{
+       "levels":[
+          "Bachelors",
+          "Partial College",
+          "High School",
+          "Graduate Degree"
+       ]
+    },
+    "TotalChildren":{
+       "max":1
+     }
+     
+   },
+
+   "sampledata":{
+
+      "IncType":{
+         "val": 100
+      },
+      "HouseCode":{
+         "val":2
+      },
+      "Cast":{
+         "cst":"Nunavut"
+      },
+      "Weight":{
+         "max":1
+      }
+
+   }
+
+ }
+
